@@ -69,7 +69,7 @@ To build **ProjectScope**, follow these steps:
 1. **Clone and navigate to the project**:
    ```bash
    git clone https://github.com/iman-zamani/Project-Scope.git
-   cd ProjectScope
+   cd Project-Scope
    ```
 
 2. **Initialize required submodules**:
